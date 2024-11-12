@@ -1,0 +1,59 @@
+header{
+    background-color: burlywood;
+    border: 2px solid black;
+    
+  
+}
+.t1{
+    text-align: center;
+    justify-content: center;
+    
+
+}
+.t2{
+    
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.container{
+    background-color: rgb(210, 192, 179);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly ;
+   
+    
+}
+.div1{
+   margin: 10px 20px 10px 10px;
+   border: 5px solid white;
+}
+.div2{
+    margin: 10px 20px 10px 10px;
+    border: 5px solid white;
+ }
+ .div3{
+    margin: 10px 20px 10px 10px;
+    border: 5px solid white;
+ }
+ .div4{
+    margin: 10px 20px 10px 10px;
+    border: 5px solid white;
+ }
+ .div5{
+    margin: 10px 20px 10px 10px;
+    border: 5px solid white;
+ }
+ .div6{
+    margin: 10px 20px 10px 10px;
+    border: 5px solid white;
+ }
+ .foot{
+   background-color: rgb(126, 57, 9);
+   justify-items: center;
+   align-items: center;
+   padding: 10px;
+   
+ }
